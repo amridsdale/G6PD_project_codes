@@ -1,0 +1,8 @@
+ICD_10	Term
+K85	Acute pancreatitis
+K85.0	Idiopathic acute pancreatitis
+K85.1	Biliary acute pancreatitis
+K85.2	Alcohol-induced acute pancreatitis
+K85.3	Drug-induced acute pancreatitis
+K85.8	Other acute pancreatitis
+K85.9	Acute pancreatitis, unspecified

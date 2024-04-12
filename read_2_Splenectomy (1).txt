@@ -1,0 +1,9 @@
+read_2 	Term
+14N7.	H/O: splenectomy
+7840	Total splenectomy
+78400	Total excision of spleen and replantation of fragments of spleen
+78401	Total splenectomy
+78403	Splenectomy NEC
+78404	Laparoscopic total splenectomy
+78410	Partial splenectomy
+D415B	Acquired absence of spleen

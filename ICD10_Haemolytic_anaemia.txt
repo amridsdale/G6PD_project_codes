@@ -1,0 +1,91 @@
+ICD10	Term
+D55	Anemia due to enzyme disorders
+D55.0	Anemia due to glucose-6-phosphate dehydrogenase [G6PD] deficiency
+D55.1	Anemia due to other disorders of glutathione metabolism
+D55.2	Anemia due to disorders of glycolytic enzymes
+D55.21	Anemia due to pyruvate kinase deficiency
+D55.29	Anemia due to other disorders of glycolytic enzymes
+D55.3	Anemia due to disorders of nucleotide metabolism
+D55.8	Other anemias due to enzyme disorders
+D55.9	Anemia due to enzyme disorder, unspecified
+D56	Thalassemia
+D56.0	Alpha thalassemia
+D56.1	Beta thalassemia
+D56.2	Delta-beta thalassemia
+D56.3	Thalassemia minor
+D56.4	Hereditary persistence of fetal hemoglobin [HPFH]
+D56.5	Hemoglobin E-beta thalassemia
+D56.8	Other thalassemias
+D56.9	Thalassemia, unspecified
+D57	Sickle-cell disorders
+D57.0	Hb-SS disease with crisis
+D57.00	…… unspecified
+D57.01	Hb-SS disease with acute chest syndrome
+D57.02	Hb-SS disease with splenic sequestration
+D57.03	Hb-SS disease with cerebral vascular involvement
+D57.09	…… with other specified complication
+D57.1	Sickle-cell disease without crisis
+D57.2	Sickle-cell/Hb-C disease
+D57.20	…… without crisis
+D57.21	Sickle-cell/Hb-C disease with crisis
+D57.211	Sickle-cell/Hb-C disease with acute chest syndrome
+D57.212	Sickle-cell/Hb-C disease with splenic sequestration
+D57.213	Sickle-cell/Hb-C disease with cerebral vascular involvement
+D57.218	…… with other specified complication
+D57.219	…… unspecified
+D57.3	Sickle-cell trait
+D57.4	Sickle-cell thalassemia
+D57.40	…… without crisis
+D57.41	Sickle-cell thalassemia, unspecified, with crisis
+D57.411	Sickle-cell thalassemia, unspecified, with acute chest syndrome
+D57.412	Sickle-cell thalassemia, unspecified, with splenic sequestration
+D57.413	Sickle-cell thalassemia, unspecified, with cerebral vascular involvement
+D57.418	…… with other specified complication
+D57.419	Sickle-cell thalassemia, unspecified, with crisis
+D57.42	…… beta zero without crisis
+D57.43	Sickle-cell thalassemia beta zero with crisis
+D57.431	Sickle-cell thalassemia beta zero with acute chest syndrome
+D57.432	Sickle-cell thalassemia beta zero with splenic sequestration
+D57.433	Sickle-cell thalassemia beta zero with cerebral vascular involvement
+D57.438	…… with other specified complication
+D57.439	…… unspecified
+D57.44	…… beta plus without crisis
+D57.45	Sickle-cell thalassemia beta plus with crisis
+D57.451	Sickle-cell thalassemia beta plus with acute chest syndrome
+D57.452	Sickle-cell thalassemia beta plus with splenic sequestration
+D57.453	Sickle-cell thalassemia beta plus with cerebral vascular involvement
+D57.458	…… with other specified complication
+D57.459	…… unspecified
+D57.8	Other sickle-cell disorders
+D57.80	…… without crisis
+D57.81	Other sickle-cell disorders with crisis
+D57.811	Other sickle-cell disorders with acute chest syndrome
+D57.812	Other sickle-cell disorders with splenic sequestration
+D57.813	Other sickle-cell disorders with cerebral vascular involvement
+D57.818	…… with other specified complication
+D57.819	…… unspecified
+D58	Other hereditary hemolytic anemias
+D58.0	Hereditary spherocytosis
+D58.1	Hereditary elliptocytosis
+D58.2	Other hemoglobinopathies
+D58.8	Other specified hereditary hemolytic anemias
+D58.9	Hereditary hemolytic anemia, unspecified
+D59	Acquired hemolytic anemia
+D59.0	Drug-induced autoimmune hemolytic anemia
+D59.1	Other autoimmune hemolytic anemias
+D59.10	Autoimmune hemolytic anemia, unspecified
+D59.11	Warm autoimmune hemolytic anemia
+D59.12	Cold autoimmune hemolytic anemia
+D59.13	Mixed type autoimmune hemolytic anemia
+D59.19	Other autoimmune hemolytic anemia
+D59.2	Drug-induced nonautoimmune hemolytic anemia
+D59.3	Hemolytic-uremic syndrome
+D59.30	…… unspecified
+D59.31	Infection-associated hemolytic-uremic syndrome
+D59.32	Hereditary hemolytic-uremic syndrome
+D59.39	Other hemolytic-uremic syndrome
+D59.4	Other nonautoimmune hemolytic anemias
+D59.5	Paroxysmal nocturnal hemoglobinuria [Marchiafava-Micheli]
+D59.6	Hemoglobinuria due to hemolysis from other external causes
+D59.8	Other acquired hemolytic anemias
+D59.9	Acquired hemolytic anemia, unspecified

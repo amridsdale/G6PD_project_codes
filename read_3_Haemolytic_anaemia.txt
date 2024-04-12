@@ -1,0 +1,205 @@
+read_3	Term
+1453	H/O: haemolytic anaemia
+D1...	Haemolytic anaemia
+D10..	Hereditary haemolytic anaemia
+D102.	Haemolytic anaemia due to glutathione metabolism disorder
+D102y	Other specified haemolytic anaemia due to glutathione metabolism disorder
+D102z	Haemolytic anaemia due to glutathione metabolism disorder NOS
+D103.	Other enzyme deficiency haemolytic anaemia
+D1030	Haemolytic anaemia due to hexokinase deficiency
+D1031	Haemolytic anaemia due to pyruvate kinase deficiency
+D1032	Haemolytic anaemia due to triose phosphate isomerase deficiency
+D103z	Enzyme deficiency haemolytic anaemia NOS
+D1070	Congenital Heinz body haemolytic anaemia
+D1070	CHBHA - Congenital Heinz body haemolytic anaemia
+D10y.	Other specified hereditary haemolytic anaemias
+D10yz	Other specified hereditary haemolytic anaemia NOS
+D10z.	Hereditary haemolytic anaemia NOS
+D11..	Acquired haemolytic anaemia
+D110.	Autoimmune haemolytic anaemias
+D1100	Primary cold-type haemolytic anaemia
+D1101	Primary warm-type haemolytic anaemia
+D1102	Secondary cold-type haemolytic anaemia
+D1103	Secondary warm-type haemolytic anaemia
+D110z	Autoimmune haemolytic anaemia NOS
+D111.	Non-autoimmune haemolytic anaemia
+D1110	Mechanical haemolytic anaemia
+D1111	Microangiopathic haemolytic anaemia
+D1111	MAHA - Microangiopathic haemolytic anaemia
+D1111	MHA - Microangiopathic haemolytic anaemia
+D1112	Toxic haemolytic anaemia
+D1114	Drug-induced haemolytic anaemia
+D1115	Infective haemolytic anaemia
+D111y	Other specified non-autoimmune haemolytic anaemia
+D111z	Non-autoimmune haemolytic anaemia NOS
+D1122	Cold Donath Landsteiner type autoimmune haemolytic anaemia
+D112z	Acquired haemolytic anaemia with haemoglobinuria NEC
+D11z.	Acquired haemolytic anaemia NOS
+D1y..	Other specified haemolytic anaemias
+D1z..	Haemolytic anaemias NOS
+Dyu1.	[X]Haemolytic anaemias
+Dyu14	[X]Other specified hereditary haemolytic anaemias
+Dyu15	[X]Other autoimmune haemolytic anaemias
+Dyu16	[X]Other nonautoimmune haemolytic anaemias
+Dyu17	[X]Other acquired haemolytic anaemias
+Q430.	Perinatal jaundice from hereditary haemolytic anaemias
+Q430z	Perinatal jaundice from hereditary haemolytic anaemia NOS
+X20Ca	Acquired haemolytic anaemia with haemoglobinuria NEC
+X20Ce	Warm autoimmune haemolytic anaemia
+X20Ce	AIHA - Warm autoimmune haemolytic anaemia
+X20Cf	Maternal autoimmune haemolytic anaemia
+X20DF	Chronic non-spherocytic haemolytic anaemia
+X20DF	CNSHA - Chronic non-spherocytic haemolytic anaemia
+Xa36n	Cold autoimmune haemolytic anaemia
+Xa36n	AIHA - Cold autoimmune haemolytic anaemia
+XaC0z	Drug-induced autoimmune haemolytic anaemia
+XE13o	Autoimmune haemolytic anaemia
+XE13o	AIHA - Autoimmune haemolytic anaemia
+XE14Y	Hereditary haemolytic anaemia
+XE14Y	Hereditary haemolytic anaemias
+XE14Y	Anaemia -heredit.haemol
+XE14Y	Hereditary haemol.anaem
+42D6.	Sickle cells present
+42D6.	RBC's - sickle cells present
+D100.	Hereditary spherocytosis
+D100.	HS - Hereditary spherocytosis
+D101.	Hereditary elliptocytosis
+D101.	HE - Hereditary elliptocytosis
+D1020	Glucose-6-phosphate dehydrogenase deficiency anaemia
+D1021	Favism
+D1022	Drug-induced enzyme deficiency anaemia
+D1033	Anaemia due to disorders of nucleotide metabolism
+D104.	(Thalassaemia (& Mediterranean anaemia)) or (leptocytosis, hereditary)
+D104.	Thalassaemia
+D104.	Mediterranean anaemia
+D104.	Leptocytosis, hereditary
+D1040	Thalassaemia major: [NEC] or [Cooley's anaemia]
+D1040	Thalassaemia major NEC
+D1040	Thalassaemia major - Cooley's anaemia
+D1041	Thalassaemia minor NEC
+D1042	See Xa9Ax
+D1043	Alpha thalassaemia (& homozygous)
+D1043	Homozygous alpha thalassaemia
+D1043	Alpha thalassaemia
+D1044	Alpha trait thalassaemia
+D1045	Beta thalassaemia trait
+D1045	Beta minor thalassaemia
+D1045	Thalassaemia minor
+D1046	Beta thalassaemia intermedia
+D1047	Beta thalassaemia major
+D1047	Cooley's anaemia
+D1048	Beta thalassaemia: (& minor)
+D1048	Beta thalassaemia
+D1048	Beta minor thalassaemia
+D1049	See X20Cq
+D104A	See XE13k
+D104z	(Mediterranean anaemia) or (thalassaemia NOS)
+D104z	Mediterranean anaemia
+D104z	Thalassaemia NOS
+D105.	Haemoglobin S trait
+D105.	Sickle cell trait
+D105.	Heterozygous for Hb S
+D105.	AS - Sickle cell trait
+D106.	Sickle cell anaemia
+D106.	Hb S disease
+D1060	Sickle cell anaemia of unspecified type
+D1061	Sickle cell anaemia with no crisis
+D1062	Sickle cell anaemia with crisis
+D1063	Haemoglobin S/C disease
+D1063	Double heterozygous for Hb S and Hb D
+D1063	Sickle cell anaemia with haemoglobin C disease
+D1064	Haemoglobin S/D Punjab disease
+D1064	Double heterozygous for Hb S + Hb D Punjab
+D1064	Sickle cell anaemia with haemoglobin D disease
+D1065	Haemoglobin S/E disease
+D1065	Double heterozygous for Hb S + Hb E
+D1065	Sickle cell anaemia with haemoglobin E disease
+D106z	Sickle cell anaemia NOS
+D107.	Other haemoglobinopathies
+D1071	Hereditary persistence of fetal haemoglobin
+D1071	Hb F disease
+D1071	HPFH - Hereditary persistence of fetal haemoglobin
+D1072	Haemoglobin Barts hydrops
+D1072	Haemoglobin Bart's disease
+D1072	Alpha thalassaemia major
+D1073	Haemoglobin C disease
+D1073	Homozygous for Hb C
+D1074	Haemoglobin D disease
+D1074	Homozygous for Hb D
+D1075	Haemoglobin E disease
+D1075	Homozygous for Hb E
+D1076	Haemoglobin Zurich disease
+D1077	Haemoglobin H disease
+D1078	See X20Cy
+D1079	See X20Cz
+D107A	See X20D0
+D107y	Other specified other haemoglobinopathy
+D107z	Other haemoglobinopathy NOS
+D10y0	Stomatocytosis
+D110.	(Autoimmune haemolytic anaemias) or (Coombs positive haemolysis)
+D110.	Coombs positive haemolysis
+D1104	See XaC0z
+D1113	Haemolytic uraemic syndrome
+D1113	HUS - Haemolytic uraemic syndrome
+D112.	Haemoglobinuria due to haemolysis from external causes
+D1120	(Haemoglobinuria: [March]) or (Marchiafava-Micheli syndrome)
+D1120	March haemoglobinuria
+D1120	Marchiafava - Micheli syndrome
+D1120	Haemoglobinuria from exertion
+D1121	Paroxysmal nocturnal haemoglobinuria
+D1121	PNH - Paroxysmal nocturnal haemoglobinuria
+D1122	Cold haemoglobinuria
+D1122	PCH - Paroxysmal cold haemoglobinuria
+D1122	Paroxysmal cold haemoglobinuria
+D112y	Other specified haemoglobinuria due to haemolysis from external cause
+D112z	Haemoglobinuria: [due to haemolysis from external cause NOS] or [cold] or [acquired haemolytic anaemia with haemoglobinuria NEC] or [paroxysmal NOS]
+D112z	Paroxysmal haemoglobinuria NOS
+D112z	Cold haemoglobinuria
+D112z	Haemoglobinuria due to haemolysis from external cause NOS
+D11z0	Acquired spherocytosis
+D11z1	Pyknocytosis, infantile
+Dyu10	[X]Other anaemias due to enzyme disorders
+Dyu11	[X]Other thalassaemias
+Dyu12	[X]Other sickle cell disorders
+Dyu13	[X]Other haemoglobinopathies
+F4221	Proliferative retinopathy due to sickle cell disease
+X00dY	Sickle cell retinopathy
+X00dZ	Sickle cell-haemoglobin C retinopathy
+X20Cw	Sickle cell syndrome
+X20Cw	Sickle cell disease
+X20Cx	Sickle cell anaemia with high haemoglobin F
+X30Kx	Sickle cell nephropathy
+XaQi5	History of sickle cell anaemia
+XaXaD	Seen in sickle cell and thalassaemia clinic
+X20Cj	Homozygous alpha thalassaemia
+X20Ck	Alpha thalassaemia trait
+X20Cl	Alpha thalassaemia-2 trait
+X20Cn	Beta thalassaemia syndrome
+X20Cn	Beta thalassaemia
+X20Co	Beta 0 thalassaemia
+X20Cp	Beta + thalassaemia
+X20Cq	Delta-beta thalassaemia
+X20Cq	F thalassaemia
+X20Cs	Delta-beta-Lepore thalassaemia
+X20Ct	Alpha-beta thalassaemia
+X20Cu	Delta thalassaemia
+X20Cv	Gamma thalassaemia
+X20D1	Haemoglobin E/beta thalassaemia disease
+X20D1	Double heterozygous for Hb E and beta thalassaemia
+Xa0Yy	Alpha thalassaemia-mental retardation syndrome
+Xa9Ax	Haemoglobin S/beta thalassaemia
+Xa9Ax	Thalassaemia with haemoglobin S disease
+Xa9Ax	Double heterozygous for Hb S and beta thalassaemia
+XE13k	Thalassaemia
+XE13l	Thalassaemia major NEC
+XE13m	Alpha thalassaemia syndrome
+XE13n	Thalassaemia NOS
+XE14a	(Thalassaemia) or (pyruvate kinase deficiency)
+XE14a	Thalassaemia
+XE14a	Thalassaemias
+N334C	Osteonecrosis due to haemoglobinopathy
+NyuCB	[X]Osteonecrosis due to haemoglobinopathy classified elsewhere
+X20Ci	Haemoglobinopathy
+XE14Y	(Hereditary haemolytic anaemia) or (haemoglobinopathy)
+XE14Y	Haemoglobinopathy
+XM1NR	Arthropathy secondary to haemoglobinopathy

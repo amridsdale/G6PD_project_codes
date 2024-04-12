@@ -1,0 +1,29 @@
+ICD10,term
+B20,Human immunodeficiency virus [HIV] disease resulting in infectious and parasitic diseases
+B20.0,HIV disease resulting in mycobacterial infection
+B20.1,HIV disease resulting in other bacterial infections
+B20.2,HIV disease resulting in cytomegaloviral disease
+B20.3,HIV disease resulting in other viral infections
+B20.4,HIV disease resulting in candidiasis
+B20.5,HIV disease resulting in other mycoses
+B20.6,HIV disease resulting in Pneumocystis jirovecii pneumonia
+B20.7,HIV disease resulting in multiple infections
+B21,Human immunodeficiency virus [HIV] disease resulting in malignant neoplasms
+B21.0,HIV disease resulting in Kaposi sarcoma
+B21.1,HIV disease resulting in Burkitt lymphoma
+B21.2,HIV disease resulting in other types of non-Hodgkin lymphoma
+B21.7,HIV disease resulting in multiple malignant neoplasms
+B21.8,HIV disease resulting in other malignant neoplasms
+B21.9,HIV disease resulting in unspecified malignant neoplasm
+B22,Human immunodeficiency virus [HIV] disease resulting in other specified diseases
+B22.0,HIV disease resulting in encephalopathy
+B22.1,HIV disease resulting in lymphoid interstitial pneumonitis
+B22.2,HIV disease resulting in wasting syndrome
+B23,Human immunodeficiency virus [HIV] disease resulting in other conditions
+B23.0,Acute HIV infection syndrome
+B23.8,HIV disease resulting in other specified conditions
+B24,Unspecified human immunodeficiency virus [HIV] disease
+F02.4,Dementia in human immunodeficiency virus [HIV] disease
+R75,Laboratory evidence of human immunodeficiency virus [HIV]
+Z21,Asymptomatic human immunodeficiency virus [HIV] infection status
+Z71.7,Human immunodeficiency virus [HIV] counselling

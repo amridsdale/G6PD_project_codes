@@ -1,0 +1,121 @@
+read_2	Term
+1453	H/O: haemolytic anaemia
+D1...	Haemolytic anaemias
+D10..	Hereditary haemolytic anaemias
+D102.	Haemolytic anaemia due to glutathione metabolism disorder
+D102y	Other specified haemolytic anaemia due to glutathione metabolism disorder
+D102z	Haemolytic anaemia due to glutathione metabolism disorder NOS
+D103.	Other enzyme deficiency haemolytic anaemia
+D1030	Haemolytic anaemia due to hexokinase deficiency
+D1031	Haemolytic anaemia due to pyruvate kinase deficiency
+D1032	Haemolytic anaemia due to triose phosphate isomerase deficiency
+D103z	Enzyme deficiency haemolytic anaemia NOS
+D10y.	Other specified hereditary haemolytic anaemias
+D10yz	Other specified hereditary haemolytic anaemia NOS
+D10z.	Hereditary haemolytic anaemia NOS
+D11..	Acquired haemolytic anaemias
+D110.	Autoimmune haemolytic anaemias
+D1100	Primary cold-type haemolytic anaemia
+D1101	Primary warm-type haemolytic anaemia
+D1102	Secondary cold-type haemolytic anaemia
+D1103	Secondary warm-type haemolytic anaemia
+D1104	Drug-induced autoimmune haemolytic anaemia
+D110z	Autoimmune haemolytic anaemia NOS
+D111.	Non-autoimmune haemolytic anaemia
+D1110	Mechanical haemolytic anaemia
+D1111	Microangiopathic haemolytic anaemia
+D1112	Toxic haemolytic anaemia
+D1114	Drug-induced haemolytic anaemia
+D1115	Infective haemolytic anaemia
+D111y	Other specified non-autoimmune haemolytic anaemia
+D111z	Non-autoimmune haemolytic anaemia NOS
+D112z	Acquired haemolytic anaemia with haemoglobinuria NEC
+D11z.	Acquired haemolytic anaemia NOS
+D1y..	Other specified haemolytic anaemias
+D1z..	Haemolytic anaemias NOS
+Dyu1.	[X]Haemolytic anaemias
+Dyu14	[X]Other specified hereditary haemolytic anaemias
+Dyu15	[X]Other autoimmune haemolytic anaemias
+Dyu16	[X]Other nonautoimmune haemolytic anaemias
+Dyu17	[X]Other acquired haemolytic anaemias
+Q430.	Perinatal jaundice from hereditary haemolytic anaemias
+Q430z	Perinatal jaundice from hereditary haemolytic anaemia NOS
+1458	History of sickle cell anaemia
+42D4.	RBC's - sickle cells present
+9No9.	Seen in sickle cell and thalassaemia clinic
+D1042	Sickle-cell thalassaemia
+D105.	Sickle-cell trait
+D106.	Sickle-cell anaemia
+D1060	Sickle-cell anaemia of unspecified type
+D1061	Sickle-cell anaemia with no crisis
+D1062	Sickle-cell anaemia with crisis
+D1063	Sickle-cell anaemia with haemoglobin C disease
+D1064	Sickle-cell anaemia with haemoglobin D disease
+D1065	Sickle-cell anaemia with haemoglobin E disease
+D106z	Sickle-cell anaemia NOS
+Dyu12	[X]Other sickle-cell disorders
+F4221	Proliferative retinopathy due to sickle cell disease
+K0G..	Sickle cell nephropathy
+D104.	Thalassaemia
+D1040	Thalassaemia major NEC
+D1040	Thalassaemia major - Cooley's anaemia
+D1041	Thalassaemia minor NEC
+D1042	Thalassaemia with haemoglobin S disease
+D1043	Alpha thalassaemia
+D1043	Homozygous alpha thalassaemia
+D1044	Alpha trait thalassaemia
+D1045	Beta trait thalassaemia
+D1046	Beta intermedia thalassaemia
+D1047	Beta major thalassaemia
+D1048	Beta minor thalassaemia
+D1048	Beta thalassaemia
+D1049	Delta-beta thalassaemia
+D104z	Thalassaemia NOS
+Dyu11	[X]Other thalassaemias
+D100.	Hereditary spherocytosis
+D100.	Acholuric familial jaundice
+D100.	Minkowski - Chauffard syndrome
+D101.	Hereditary elliptocytosis
+D101.	Ovalocytosis - hereditary
+D1020	Glucose-6-phosphate dehydrogenase deficiency anaemia
+D1021	Favism
+D1022	Drug-induced enzyme deficiency anaemia
+D1033	Anaemia due to disorders of nucleotide metabolism
+D104.	Leptocytosis, hereditary
+D104.	Mediterranean anaemia
+D104A	Hereditary leptocytosis
+D104z	Mediterranean anaemia
+D107.	Other haemoglobinopathies
+D1070	Congenital Heinz-body anaemia
+D1071	Hereditary persistence of fetal haemoglobin [HPFH]
+D1071	Hb F disease
+D1072	Haemoglobin Bart's disease
+D1073	Haemoglobin-C disease
+D1074	Haemoglobin-D disease
+D1075	Haemoglobin-E disease
+D1076	Haemoglobin Zurich disease
+D1077	Haemoglobin-H disease
+D1078	Haemoglobin C trait
+D1079	Haemoglobin D trait
+D107A	Haemoglobin E trait
+D107y	Other specified other haemoglobinopathy
+D107z	Other haemoglobinopathy NOS
+D10y0	Stomatocytosis
+D110.	Coombs positive haemolysis
+D1113	Haemolytic-uraemic syndrome
+D112.	Haemoglobinuria due to haemolysis from external causes
+D1120	Haemoglobinuria from exertion
+D1120	March haemoglobinuria
+D1120	Marchiafava - Micheli syndrome
+D1121	Paroxysmal nocturnal haemoglobinuria
+D1122	Paroxysmal cold haemoglobinuria
+D112y	Other specified haemoglobinuria due to haemolysis from external cause
+D112z	Haemoglobinuria due to haemolysis from external cause NOS
+D112z	Cold haemoglobinuria
+D112z	Paroxysmal haemoglobinuria NOS
+D11z0	Acquired spherocytosis
+D11z1	Pyknocytosis, infantile
+Dyu10	[X]Other anaemias due to enzyme disorders
+Dyu13	[X]Other haemoglobinopathies
+N334C	Osteonecrosis due to haemoglobinopathy
+NyuCB	[X]Osteonecrosis due to haemoglobinopathy classified elsewhere

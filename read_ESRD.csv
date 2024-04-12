@@ -1,0 +1,108 @@
+read,term
+14S2.00,H/O: kidney recipient
+14V2.00,H/O: renal dialysis
+14V2.11,H/O: kidney dialysis
+1Z14.00,Chronic kidney disease stage 5
+1Z1K.00,Chronic kidney disease stage 5 with proteinuria
+1Z1L.00,Chronic kidney disease stage 5 without proteinuria
+1Z1L.11,CKD stage 5 without proteinuria
+4I29.00,Peritoneal dialysis sample
+4N0..00,Dialysis fluid urea level
+4N2..00,Dialysis fluid glucose level
+7B00.00,Transplantation of kidney
+7B00100,Transplantation of kidney from live donor
+7B00111,Allotransplantation of kidney from live donor
+7B00200,Transplantation of kidney from cadaver
+7B00211,Allotransplantation of kidney from cadaver
+7B00212,Cadaveric renal transplant
+7B00300,"Allotransplantation of kidney from cadaver, heart-beating"
+7B00400,"Allotransplantation kidney from cadaver, heart non-beating"
+7B00500,Allotransplantation of kidney from cadaver NEC
+7B00y00,Other specified transplantation of kidney
+7B00z00,Transplantation of kidney NOS
+7B01511,Excision of rejected transplanted kidney
+7B06300,Exploration of renal transplant
+7B0F.00,Interventions associated with transplantation of kidney
+7B0F300,"Post-transplantation of kidney examination, recipient"
+7B0Fy00,OS interventions associated with transplantation of kidney
+7B0Fz00,Interventions associated with transplantation of kidney NOS
+7L1A.11,Dialysis for renal failure
+7L1A000,Renal dialysis
+7L1A011,Thomas intravascular shunt for dialysis
+7L1A100,Peritoneal dialysis
+7L1A200,Haemodialysis NEC
+7L1A400,Automated peritoneal dialysis
+7L1A500,Continuous ambulatory peritoneal dialysis
+7L1A600,Peritoneal dialysis NEC
+7L1B.11,Placement ambulatory dialysis apparatus - compens renal fail
+7L1B000,Insertion of ambulatory peritoneal dialysis catheter
+7L1B100,Removal of ambulatory peritoneal dialysis catheter
+7L1B200,Flushing of peritoneal dialysis catheter
+7L1C000,Insertion of temporary peritoneal dialysis catheter
+8882,Intestinal dialysis
+G72C.00,Ruptured aneurysm of dialysis vascular access
+G72D.00,Aneurysm of dialysis arteriovenous fistula
+G72D000,Aneurysm of superficialised artery of dialysis AV fistula
+G72D100,Aneurysm of needle site of dialysis arteriovenous fistula
+G72D200,Aneurysm of anastomotic site of dialysis AV fistula
+Gy1..00,Stenosis of dialysis vascular access
+Gy10.00,Stenosis of dialysis arteriovenous graft
+Gy2..00,Thrombosis of dialysis vascular access
+Gy21.00,Thrombosis of dialysis arteriovenous fistula
+Gy3..00,Occlusion of dialysis vascular access
+Gy30.00,Occlusion of dialysis arteriovenous graft
+Gy31.00,Occlusion of dialysis arteriovenous fistula
+Gy4..00,Infection of dialysis vascular access
+Gy40.00,Infection of dialysis arteriovenous graft
+Gy41.00,Infection of dialysis arteriovenous fistula
+Gy5..00,Haemorrhage of dialysis vascular access
+Gy51.00,Haemorrhage of dialysis arteriovenous fistula
+Gy60.00,Rupture of dialysis arteriovenous graft
+K05..12,End stage renal failure
+K050.00,End stage renal failure
+K0B5.00,Renal tubulo-interstitial disordrs in transplant rejectn
+K0D..00,End-stage renal disease
+Kyu1C00,[X]Renal tubulo-interstitial disorders/transplant rejection
+SP01500,Mechanical complication of dialysis catheter
+SP05613,[X] Peritoneal dialysis associated peritonitis
+SP06B00,Continuous ambulatory peritoneal dialysis associated perit
+SP07G00,Stenosis of arteriovenous dialysis fistula
+SP08300,Kidney transplant failure and rejection
+SP08D00,Acute-on-chronic rejection of renal transplant
+SP08E00,Acute rejection of renal transplant - grade I
+SP08F00,Acute rejection of renal transplant - grade II
+SP08G00,Acute rejection of renal transplant - grade III
+SP08H00,Acute rejection of renal transplant
+SP08J00,Chronic rejection of renal transplant
+SP08N00,Unexplained episode of renal transplant dysfunction
+SP08P00,Stenosis of vein of transplanted kidney
+SP08R00,Renal transplant rejection
+SP08T00,Urological complication of renal transplant
+SP08V00,Very mild acute rejection of renal transplant
+SP08W00,Vascular complication of renal transplant
+SP0E.00,Disorders associated with peritoneal dialysis
+SP0F.00,Haemodialysis first use syndrome
+SP0G.00,Anaphylactoid reaction due to haemodialysis
+TA02000,"Accid cut,puncture,perf,h'ge - kidney dialysis"
+TA22000,Failure of sterile precautions during kidney dialysis
+TB00100,"Kidney transplant with complication, without blame"
+TB00111,"Renal transplant with complication, without blame"
+TB11.00,"Kidney dialysis with complication, without blame"
+TB11.11,"Renal dialysis with complication, without blame"
+Z1A..00,Dialysis training
+Z1A1.00,Peritoneal dialysis training
+Z1A2.00,Haemodialysis training
+Z919.00,Care of haemodialysis equipment
+Z919100,Priming haemodialysis lines
+Z919200,Washing back through haemodialysis lines
+Z919300,Reversing haemodialysis lines
+Z91A.00,Peritoneal dialysis bag procedure
+ZV42000,[V]Kidney transplanted
+ZV45100,[V]Renal dialysis status
+ZV56.00,[V]Aftercare involving intermittent dialysis
+ZV56000,[V]Aftercare involving extracorporeal dialysis
+ZV56011,[V]Aftercare involving renal dialysis NOS
+ZV56y00,[V]Other specified aftercare involving intermittent dialysis
+ZV56y11,[V]Aftercare involving peritoneal dialysis
+ZV56z00,[V]Unspecified aftercare involving intermittent dialysis
+ZVu3G00,[X]Other dialysis

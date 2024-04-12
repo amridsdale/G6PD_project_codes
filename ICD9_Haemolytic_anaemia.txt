@@ -1,0 +1,3 @@
+ICD9	Term
+D282	Hereditary haemolytic anaemia
+D283	Acquired haemolytic anaemia

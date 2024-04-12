@@ -1,0 +1,13 @@
+read_2	Term
+J670.	Acute pancreatitis
+J6700	Acute pancreatitis unspecified
+J6701	Acute recurrent pancreatitis
+J6702	Acute haemorrhagic pancreatitis
+J6703	Acute suppurative pancreatitis
+J6705	Gallstone acute pancreatitis
+J6706	Idiopathic acute pancreatitis
+J6707	Biliary acute pancreatitis
+J6708	Alcohol-induced acute pancreatitis
+J6709	Drug-induced acute pancreatitis
+J670y	Other acute pancreatitis
+J670z	Acute pancreatitis NOS

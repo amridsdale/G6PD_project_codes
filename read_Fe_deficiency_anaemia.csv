@@ -1,0 +1,21 @@
+read,term
+1451,H/O: anaemia - iron deficient
+D0...11,Asiderotic anaemia
+D0...12,Sideropenic anaemia
+D00..00,Iron deficiency anaemias
+D000.00,Iron deficiency anaemia due to chronic blood loss
+D000.11,Normocytic anaemia due to chronic blood loss
+D000.12,Iron deficiency anaemia due to blood loss
+D001.00,Iron deficiency anaemia due to dietary causes
+D00y.00,Other specified iron deficiency anaemia
+D00y.11,Kelly - Paterson syndrome
+D00y.12,Plummer - Vinson syndrome
+D00y000,Sideropenic dysphagia
+D00y011,Kelly-Paterson syndrome
+D00y012,Plummer-Vinson syndrome
+D00yz00,Other specified iron deficiency anaemia NOS
+D00z.00,Unspecified iron deficiency anaemia
+D00z000,Achlorhydric anaemia
+D00z100,Chlorotic anaemia
+D00zz00,Iron deficiency anaemia NOS
+Dyu0000,[X]Other iron deficiency anaemias

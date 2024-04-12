@@ -1,0 +1,28 @@
+read_2	Term
+14S1.	H/O: blood transfusion
+4IA3.	Too soon after blood transfusion for reliable screening
+687N1	Sickle cell screening, sample taken too soon after blood transfusion (less than 72 hours)
+7K1Q2	Transfusion of stem cells
+7L13.	Exchange blood transfusion
+7L13y	Other specified exchange blood transfusion
+7L13z	Exchange blood transfusion NOS
+7L14.	Other blood transfusion
+7L140	Intraarterial blood transfusion
+7L141	Intravenous blood transfusion of packed cells
+7L142	Intravenous blood transfusion of platelets
+7L143	Intravenous blood transfusion NEC
+7L143	Blood transfusion
+7L148	Autotransfusion of red cells
+7L14y	Other specified other blood transfusion
+7L14z	Other blood transfusion NOS
+7L15.	Other intravenous transfusion
+7L150	Transfusion of coagulation factor
+7L151	Transfusion of plasma
+7L152	Transfusion of serum NEC
+7L153	Transfusion of blood expander
+7L154	Transfusion of platelets NEC
+7L155	Transfusion of bone marrow
+7L158	Transfusion of plasma NEC
+7L15y	Other specified other intravenous transfusion
+7L15z	Other intravenous transfusion NOS
+7L1j.	Other exchange blood transfusion

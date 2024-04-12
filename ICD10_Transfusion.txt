@@ -1,0 +1,4 @@
+ICD10	Term
+Z51.3	Blood transfusion (without reported diagnosis)
+
+

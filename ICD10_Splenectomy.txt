@@ -1,0 +1,2 @@
+ICD10	Term
+Z90.81	Acquired absence of spleen
